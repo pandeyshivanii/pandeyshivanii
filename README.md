@@ -1,8 +1,8 @@
 # Hi, I'm Shivani 👩‍💻  
 
-👩‍🎓 CSIT’25 | Android Developer | Full Stack Web Developer  
-💻 I enjoy building scalable applications and exploring open source.  
-🚀 Passionate about Android (Java/Kotlin) & Web Development (MERN Stack).  
+☁️ Passionate about designing, deploying, and managing scalable cloud infrastructure.
+💻 Experienced in cloud platforms, automation, CI/CD pipelines, and infrastructure as code.
+🚀 Enthusiastic about DevOps practices, reliability engineering, and contributing to open‑source cloud projects.
 
 ---
 
